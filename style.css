@@ -9,7 +9,7 @@
   grid-auto-rows: 10vw minmax(78vh, auto) 8vh;
   grid-gap: 10px;
   margin: 0;
-  /*background-image: url("backgroundcomputer.jpg");*/
+  background-image: url("backgroundcomputer.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
